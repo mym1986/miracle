@@ -1787,7 +1787,7 @@ textarea {
       display: block;
       position: relative;
       width: 100%;
-      background: #1d1d1d;
+      /* background: #1d1d1d; */
       overflow: hidden;
       transition: 0.15s;
       opacity: 0;
@@ -3181,7 +3181,7 @@ textarea {
         font-size: 10rem; } }
   @media (min-width: 768px) {
     .section-title .title-abs {
-      top: 64px;
+      top: 70px;
       left: 50%;
       -webkit-transform: translateX(-50%);
               transform: translateX(-50%);

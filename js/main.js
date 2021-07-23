@@ -89,7 +89,7 @@ $(document).on('ready', function () {
 		loop: true,
 		grabCursor: true,
 		centeredSlides: true,
-		autoplay: 5000,
+		//autoplay: 5000,
 		autoplayDisableOnInteraction: false,
 		slidesPerView: 1,
 		spaceBetween: 0,
